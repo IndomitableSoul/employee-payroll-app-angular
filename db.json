@@ -1,0 +1,26 @@
+{
+  "employeeList": [
+    {
+      "employeeName": "Nikita",
+      "profilePic": "../../assets/profile-images/Ellipse -1.png",
+      "department": [
+        "Sales"
+      ],
+      "startDate": "2022-01-31T18:30:00.000Z",
+      "gender": "Female",
+      "salary": 49000,
+      "note": "se",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

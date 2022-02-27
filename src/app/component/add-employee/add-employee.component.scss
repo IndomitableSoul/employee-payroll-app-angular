@@ -1,0 +1,24 @@
+mat-form-field{
+    width: 100%;
+}
+.example-radio-group {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0;
+    align-items: flex-start;
+  }
+  
+  .example-radio-button {
+    margin: 5px;
+  }
+  mat-slider{
+      width: 100%;
+  }
+  .profilePic{
+    display: flex;
+    flex-direction: row;
+  }
+  .profilePic img{
+    width: 35px;
+    margin-right: 15px;
+  }
